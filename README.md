@@ -1,4 +1,9 @@
 Sample_NFC
 ==========
 
-A Sample project for Android on how to use NFC (Read Tag/Write Tag/Beam)
+An Android Sample project to show how to use NFC.
+
+With this app, you can:
+- Read a tag
+- Write a tag
+- Beam stuff
