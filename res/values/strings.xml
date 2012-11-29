@@ -13,6 +13,8 @@
     <string name="text_button_readtag">Read Tag</string>
     <string name="text_button_beam">Beam</string>
     
+    <string name="text_android">The Android</string>
+    
     <string name="text_warning_nfc_is_off">NFC is currently turned off!</string>
     <string name="text_turn_on_nfc">This example can\'t be used without NFC enabled. Please turn on NFC in the Settings and then use the back button to return to this app.</string>
     <string name="text_update_settings">Update Settings</string>    
